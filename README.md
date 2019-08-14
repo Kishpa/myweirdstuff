@@ -15,6 +15,7 @@ A centralized starting point to review some of the stuff I do.
 - [Private] [**Notes**](https://shipyard.thefreebay.net/wip/asepeyo-notes): Notes I take to track my day at day at work.
 - [Private] [**Archimate**](https://shipyard.thefreebay.net/wip/asepeyo-archimate): Some Enterprise Architecture Models.
 - [Private] [**TRM**](https://shipyard.thefreebay.net/wip/asepeyo-trm): Technical Reference Model.
+- [Private] [**Area**](https://shipyard.thefreebay.net/wip/asepeyo-area): Documentation related to the team I lead.
 
 
 
