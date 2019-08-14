@@ -12,9 +12,9 @@ A centralized starting point to review some of the stuff I do.
 - [**SysOp Scripts**](https://shipyard.thefreebay.net/beholderbbs/op-scripts): Operation and support scripts and files I use to empowering [EOTB](https://www.beholderbbs.org "Eye Of The Beholder BBS").
 
 ## Work in progress
-- [Private] [**Notes**](https://shipyard.thefreebay.net/Kishpa/asepeyo-notes): Notes I take to track my day at day at work.
-- [Private] [**Archimate**](https://shipyard.thefreebay.net/Kishpa/asepeyo-archimate): Some Enterprise Architecture Models.
-- [Private] [**TRM**](https://shipyard.thefreebay.net/Kishpa/asepeyo-trm): Technical Reference Model.
+- [Private] [**Notes**](https://shipyard.thefreebay.net/wip/asepeyo-notes): Notes I take to track my day at day at work.
+- [Private] [**Archimate**](https://shipyard.thefreebay.net/wip/asepeyo-archimate): Some Enterprise Architecture Models.
+- [Private] [**TRM**](https://shipyard.thefreebay.net/wip/asepeyo-trm): Technical Reference Model.
 
 
 
